@@ -103,6 +103,7 @@ body {
 			-moz-transition: opacity 0.2s ease-in-out 0.1s;
 			-o-transition: opacity 0.2s ease-in-out 0.1s;
 			transition: opacity 0.2s ease-in-out 0.1s;
+      color: 29503b;
 		}
 
 		&:hover .header-link {
@@ -119,6 +120,7 @@ body {
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    line-height: 1.5;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
