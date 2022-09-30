@@ -107,8 +107,8 @@ author:
   name             : "Mallard"
   avatar           : "/assets/images/Mallard_profile.png"
   bio              : "Duck"
-  location         : ""
-  email            :
+  location         : "Seoul, South Korea"
+  email            : "monumentpeak28@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
