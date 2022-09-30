@@ -3,7 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "Category"
-    url: /categories
+    children:
+      -title : "Python"
+      url : /categories/category-python
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
