@@ -28,7 +28,7 @@ ChromeDriver는 Chrome 브라우저를 사용한다고 해서 기본으로 포�
 ```python
 from selenium import webdriver
 
-driver = webdriver.Chrome
+driver = webdriver.Chrome()
 ```
 
 ## 2. ChromeDriver Version 이슈
